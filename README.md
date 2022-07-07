@@ -1,2 +1,2 @@
 # IniParser
-An tool to parse ini files
+An tool to parse, read, manage ini files
